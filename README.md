@@ -29,7 +29,7 @@ root(x)
 ```
 
 ## Output:
-![SQUARE](/output%20(1).png)
+![SQUARE](./output%20(1).png)
 
 
 ## Result:
